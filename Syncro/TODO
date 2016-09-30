@@ -1,0 +1,3 @@
+1. Documentation
+2. Ask permission before overwriting in sync-out
+3. Keep track of which file is new. Ask permission if dest in newer than src

@@ -1,0 +1,6 @@
+[submodule "syncro/resources/tinydb"]
+	path = syncro/resources/tinydb
+	url = https://github.com/msiemens/tinydb.git
+[submodule "syncro/resources/python-librsync"]
+	path = syncro/resources/python-librsync
+	url = https://github.com/smartfile/python-librsync.git

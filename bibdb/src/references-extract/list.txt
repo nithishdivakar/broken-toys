@@ -1,0 +1,37 @@
+1. Ailon, N. and Chazelle, B. 2006. Approximate nearest neighbors and the Fast Johnson-Lindenstrauss Transform. In Proceedings of the Symposium on Theory of Computing.
+2. Andoni, A. and Indyk, P. 2004. E2lsh: Exact Euclidean localitysensitive hashing. http://web.mit.edu/andoni/www/LSH/.  
+3. Andoni, A. and Indyk, P. 2006. Near-optimal hashing algorithms for approximate nearest neighbor in high dimensions. In Proceedings of the Symposium on Foundations of Computer Science.
+4. Andoni, A. and Indyk, P. 2006. Efficient algorithms for substring near neighbor problem. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms. 1203–1212.
+5. Arya, S., Mount, D. M., Netanyahu, N. S., Silverman, R., and Wu, A. 1994. An optimal algorithm for approximate nearest neighbor searching. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms. 573–582.
+6. Bentley, J. L. 1975. Multidimensional binary search trees used for associative searching. Comm. ACM 18, 509–517.
+7. Broder, A., Charikar, M., Frieze, A., and Mitzenmacher, M. 1998.  Min-wise independent permutations. J. Comput. Sys. Sci.
+8. Broder, A., Glassman, S., Manasse, M., and Zweig, G. 1997. Syntactic clustering of the web. In Proceedings of the 6th International World Wide Web Conference. 391–404.
+9. Broder, A. 1997. On the resemblance and containment of documents.  In Proceedings of Compression and Complexity of Sequences.  21–29.
+10. Buhler, J. 2001. Efficient large-scale sequence comparison by locality-sensitive hashing. Bioinform. 17, 419–428.
+11. Buhler, J. and Tompa, M. 2001. Finding motifs using random projections. In Proceedings of the Annual International Conference on Computational Molecular Biology (RECOMB1).
+12. Califano, A. and Rigoutsos, I. 1993. Flash: A fast look-up algorithm for string homology. In Proceedings of the IEE Conference on Computer Vision and Pattern Recognition (CVPR).
+13. Chakrabarti, A. and Regev, O. 2004. An optimal randomised cell probe lower bounds for approximate nearest neighbor searching. In Proceedings of the Symposium on Foundations of Computer Science.
+14. Charikar, M. 2002. Similarity estimation techniques from rounding.  In Proceedings of the Symposium on Theory of Computing.
+15. Charikar, M., Chekuri, C., Goel, A., Guha, S., and Plotkin, S. 1998.  Approximating a finite metric by a small number of tree metrics.  In Proceedings of the Symposium on Foundations of Computer Science.
+16. Cormen, T. H., Leiserson, C. E., Rivest, R. L., and Stein, C. 2001.  Introduct. Algorithms. 2nd Ed. MIT Press.
+17. Datar, M., Immorlica, N., Indyk, P., and Mirrokni, V. 2004. Localitysensitive hashing scheme based on p-stable distributions.In Proceedings of the ACM Symposium on Computational Geometry 
+18. Dutta, D., Guha, R., Jurs, C., and Chen, T. 2006. Scalable parti - tioning and exploration of chemical spaces using geometric hashing.  J. Chem. Inf. Model. 46.
+19. Gionis, A., Indyk, P., and Motwani, R. 1999. Similarity search in high dimensions via hashing. In Proceedings of the International Conference on Very Large Databases.
+20. Goemans, M. and Williamson, D. 1995. Improved approximation algorithms for maximum cut and satisfiability problems using semidefinite programming. J. ACM 42. 1115–1145.
+21. Greene, D., Parnas, M., and Yao, F. 1994. Multi-index hashing for information retrieval. In Proceedings of the Symposium on Foundations of Computer Science. 722–731.
+22. Har-Peled, S. 2001. A replacement for voronoi diagrams of near linear size. In Proceedings of the Symposium on Foundations of Computer Science.
+23. Haveliwala, T., Gionis, A., and Indyk, P. 2000. Scalable techniques for clustering the web. WebDB Workshop.
+24. Indyk, P. 2003. Nearest neighbors in high-dimensional spaces. In Handbook of Discrete and Computational Geometry. CRC Press.
+25. Indyk, P. and Motwani, R. 1998. Approximate nearest neighbor: Towards removing the curse of dimensionality. In Proceedings of the Symposium on Theory of Computing.
+26. Karp, R. M., Waarts, O., and Zweig, G. 1995. The bit vector intersection problem. In Proceedings of the Symposium on Foundations of Computer Science. pages 621–630.
+27. Kleinberg, J. 1997. Two algorithms for nearest-neighbor search in high dimensions. In Proceedings of the Symposium on Theory of Computing.
+28. Krauthgamer, R. and Lee, J. R. 2004. Navigating nets: Simple algorithms for proximity search. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms.
+29. Kushilevitz, E., Ostrovsky, R., and Rabani, Y. 1998. Efficient search for approximate nearest neighbor in high dimensional spaces. In Proceedings of the Symposium on Theory of Computing. 614–623.
+30. Linial, N., London, E., and Rabinovich, Y. 1994. The geometry of graphs and some of its algorithmic applications. In Proceedings of the Symposium on Foundations of Computer Science. 577–591.
+31. Motwani, R., Naor, A., and Panigrahy, R. 2006. Lower bounds on locality sensitive hashing. In Proceedings of the ACM Symposium on Computational Geometry.
+32. Panigrahy, R. 2006. Entropy-based nearest neighbor algorithm in high dimensions. In Proceedings of the ACM-SIAM Symposium on Discrete Algorithms.
+33. Paturi, R., Rajasekaran, S., and Reif, J.The light bulb problem.  Inform. Comput. 117, 2, 187–192.
+34. Ravichandran, D., Pantel, P., and Hovy, E. 2005. Randomized algorithms and nlp: Using locality sensitive hash functions for high speed noun clustering. In Proceedings of the Annual Meeting of the Association of Computational Linguistics.
+35. Samet, H. 2006. Foundations of Multidimensional and Metric Data Structures. Elsevier, 2006.
+36. Shakhnarovich, G., Darrell, T., and Indyk, P. Eds. Nearest Neighbor Methods in Learning and Vision. Neural Processing Information Series, MIT Press.
+37. Terasawa, T. and Tanaka, Y. 2007. Spherical lsh for approximate nearest neighbor search on unit hypersphere. In Proceedings of the Workshop on Algorithms and Data Structures.
